@@ -22,6 +22,11 @@
   top:100px;
 }
 
+.small{
+  height: 200px;
+  width: 200px;
+}
+
 .jumbotron h1 {
   color: #fff;
   font-size: 48px;  
@@ -50,15 +55,15 @@
 .learn-more a {
   color: #00b0ff;
 }
-.neighborhood-guides {
+.Skills{
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
 }
-.neighborhood-guides h2 {
+.Skills h2 {
     color: #393c3d;
     font-size: 24px;
 }
-.neighborhood-guides p {
+.Skills p {
     font-size: 15px;
     margin-bottom: 13px;
 }
